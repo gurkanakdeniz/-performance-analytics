@@ -1,0 +1,22 @@
+{
+  "name": "@gurkanakdeniz/perf-analytics-js",
+  "version": "1.0.2",
+  "description": "performance analytics js",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gurkanakdeniz/perf-analytics.git"
+  },
+  "author": "gurkanakdeniz",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gurkanakdeniz/perf-analytics/issues"
+  },
+  "homepage": "https://github.com/gurkanakdeniz/perf-analytics#readme",
+  "dependencies": {
+    "my-package": "^0.0.0"
+  }
+}
